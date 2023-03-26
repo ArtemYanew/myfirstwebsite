@@ -1,2 +1,2 @@
 # myfirstwebsite
-artemyanew.github.io/myfirstwebsite/
+https://artemyanew.github.io/myfirstwebsite/
